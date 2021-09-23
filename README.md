@@ -15,8 +15,11 @@ AutosRUs has a new prototype, the MechaCar, which is facing production troubles.
 ## Linear Regression to Predict MPG
 write a short summary using a screenshot of  output from the linear regression,  address the following questions:
 
-![Screenshot]()
-![Screenshot]()
+Linear Regression
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable1_LinearReg.png)
+
+p-value & r-squared value
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable1_SummaryStat.png)
 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
