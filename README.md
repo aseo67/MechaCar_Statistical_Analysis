@@ -4,6 +4,7 @@ Module 15 Challenge Files
 - Datasets
   - [MechaCar_mpg.csv](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
   - [Suspension_Coil.csv](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
+- [Screenshots](https://github.com/aseo67/MechaCar_Statistical_Analysis/tree/main/Screenshots)
 
 ## Overview of Analysis
 AutosRUs has a new prototype, the MechaCar, which is facing production troubles. AutosRUs would like to review the production data for any insights to help the manufacturing team. This analysis:
@@ -12,8 +13,9 @@ AutosRUs has a new prototype, the MechaCar, which is facing production troubles.
 - Runs t-tests to see if manufacturing lots are statistically different from mean population
 - Designs a statistical study to compare vehicle performance of MechaCars vs. other manufacturers' vehicles
 
+
 ## Linear Regression to Predict MPG
-write a short summary using a screenshot of  output from the linear regression,  address the following questions:
+_write a short summary using a screenshot of  output from the linear regression,  address the following questions:_
 
 Linear Regression
 ![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable1_LinearReg.png)
@@ -21,18 +23,22 @@ Linear Regression
 p-value & r-squared value
 ![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable1_SummaryStat.png)
 
-
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+_Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
-## Deliverable 2:
-
-![Screenshot]()
-![Screenshot]()
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?_
 
 
-### Results
+## Summary Statistics on Suspension Coils
+_short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:_
+
+total_summary
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable2_TotalSummary.png)
+
+lot_summary
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable2_LotSummary.png)
+
+_The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
+Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?_
 
 
 ## Deliverable 3:
