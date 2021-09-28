@@ -34,5 +34,3 @@ t.test(subset(Suspension_Coil$PSI, Suspension_Coil$Manufacturing_Lot == "Lot3"),
 
 
 
-
-# Deliverable 4
