@@ -45,7 +45,10 @@ Does the current manufacturing data meet this design specification for all manuf
 _briefly summarize your interpretation & findings for t-test results_
 
 t-Test: All Lots
+_ t-test that compares all manufacturing lots against mean PSI of the population of 1500 pounds per square inch_
 ![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_AllLotsTTest.png)
+
+_compare each manufacturing lot against mean PSI of the population_
 
 t-Test: Lot 1
 ![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_Lot1TTest.png)
@@ -57,15 +60,17 @@ t-Test: Lot 3
 ![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_Lot3TTest.png)
 
 
+## Study Design: MechaCar vs Competition
 
-### Results
+_short description of a statistical study that can quantify how MechaCar performs against the competition. 
+Think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating._
 
-
-## Deliverable 4:
+_Answer these questions:
+1. What metric(s) are you going to test?
+2. What is the null hypothesis or alternative hypothesis?
+3. What statistical test would you use to test the hypothesis? why?
+4. What data is needed to run the statistical test?_
 
 ![Screenshot]()
 ![Screenshot]()
-
-
-### Results
 
