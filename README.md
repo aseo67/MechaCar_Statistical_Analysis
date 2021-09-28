@@ -41,10 +41,21 @@ _The design specifications for the MechaCar suspension coils dictate that the va
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?_
 
 
-## Deliverable 3:
+## T-Tests on Suspension Coils
+_briefly summarize your interpretation & findings for t-test results_
 
-![Screenshot]()
-![Screenshot]()
+t-Test: All Lots
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_AllLotsTTest.png)
+
+t-Test: Lot 1
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_Lot1TTest.png)
+
+t-Test: Lot 2
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_Lot2TTest.png)
+
+t-Test: Lot 3
+![Screenshot](https://github.com/aseo67/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable3_Lot3TTest.png)
+
 
 
 ### Results
