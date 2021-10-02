@@ -76,16 +76,15 @@ However, for Lot 3, we see a p-value of 0.04, which is lower than 0.05. This ind
 
 
 ## Study Design: MechaCar vs Competition
+When comparing cars, one of the main aspects customers look into is fuel efficiency (mpg). Thus, to compare MechaCar vs. a competitor, the following statistical study compares the avg. city and avg. highway fuel efficiencies (mpg) to see if there are any statistical differences. 
 
-_short description of a statistical study that can quantify how MechaCar performs against the competition. 
-Think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating._
-
-_Answer these questions:
-1. What metric(s) are you going to test?
-2. What is the null hypothesis or alternative hypothesis?
-3. What statistical test would you use to test the hypothesis? why?
-4. What data is needed to run the statistical test?_
-
-![Screenshot]()
-![Screenshot]()
+1. _What metric(s) will be tested?_
+    - Miles per gallon (mpg) for city and highway driving, for MechaCar and a competitor. 
+2. _What is the null hypothesis or alternative hypothesis?_
+    - H<sub>0</sub>: There **is no statistical difference** in the average city (or highway) mpgs for MechaCar and the competitor. 
+    - H<sub>a</sub>: There **is a statistical difference** in the average city (or highway) mpgs for MechaCar and the competitor. 
+3. _What statistical test would you use to test the hypothesis? Why?_
+    - Two-sample t-tests will be conducted for each of the mpg types (average city mpg for MechaCar vs. competitor, and average highway mpg for MechaCar vs. competitor) 
+4. _What data is needed to run the statistical test?__
+    - The data needed to run this test are city mpg and highway mpg for various MechaCar driving trips and for the competitor's driving trips. Thus, with the two-sample t-test, the means can be calculated for avg. city mpg and highway mpg for each of the cars. 
 
